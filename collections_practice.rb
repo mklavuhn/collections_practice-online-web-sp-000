@@ -26,5 +26,7 @@ def kesha_maker(arr)
 end
 def find_a(arr)
   arr.select do |letter|
+    letter[0] == "a"
+  end
 end
   
