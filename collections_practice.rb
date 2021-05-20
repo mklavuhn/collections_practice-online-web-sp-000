@@ -24,4 +24,7 @@ def kesha_maker(arr)
     letter[2] = "$"
   end
 end
+def find_a(arr)
+  arr.find.start_with("a")
+end
   
