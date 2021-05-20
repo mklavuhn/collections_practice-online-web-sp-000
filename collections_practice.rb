@@ -29,4 +29,7 @@ def find_a(arr)
     letter[0] == "a"
   end
 end
+
+def sum_array(array_int)
+  
   
