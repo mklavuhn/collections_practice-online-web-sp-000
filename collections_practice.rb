@@ -33,4 +33,11 @@ end
 def sum_array(array_int)
   array_int.inject(0, :+)
 end
+
+def add_s(array)
+  
+  
+  
+  
+  
   
