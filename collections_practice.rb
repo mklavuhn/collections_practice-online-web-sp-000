@@ -20,5 +20,5 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr)
-  kesha = []
+  arr.each do |letter|
   
